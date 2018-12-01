@@ -4,8 +4,8 @@ print "Please Enter Your Weght: "
 weight = gets.chomp.to_f
 bmi = (weight/(height**2)).round(3)
 
-exercise = {Walking: 175, RunningCyclingORSwimming: 300, Rowing: 420, JumpingRope: 500}
-food = {Eggs: 78, BowlofRice: 204, StripofChickenBreast: 142, ScoopofWheyProtein: 210}
+exercise = { 'Walking': 175, 'Running, Cycling, or Swimming': 300, 'Rowing': 420, 'Jumping Rope': 500 }
+food = { 'Eggs': 78, 'Bowl of Rice': 204, 'Strip of Chicken Breast': 142, 'A Scoop of Whey Protein': 210 }
 
 bmi < 18.5 ? condition = "underweight" : condition = "normal"
 condition = "overweight" if bmi > 25
