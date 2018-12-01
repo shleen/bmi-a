@@ -1,7 +1,10 @@
 # bmi -a
 All the bmi calculators 😎 Contributions are always welcome!
 
-## Completed
+## Experience The BMI Calculators
+If you'd like to execute & experience these beauties on your own machine, you can head over to the [wiki](https://github.com/shleen/bmi-a/wiki) for instructions.
+
+### Completed
 Feel free to make improvements & soup these bmi calculators up, though!
 
 - Python3
