@@ -1,8 +1,6 @@
 # bmi -a
 All the bmi calculators 😎
 
-Contributions welcome!
-
 ## Completed
 Feel free to make improvements & soup these bmi calculators up, though!
 
@@ -12,3 +10,6 @@ Feel free to make improvements & soup these bmi calculators up, though!
 
 ## In Development
 - Java
+
+---
+Contributions are always welcome!
