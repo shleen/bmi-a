@@ -8,6 +8,6 @@ program bmi
         print *, 'Now, your height (in m)'
         read(*,*) height
 
-        write(*,'(A, F10.2)') 'Your bmi is ',  (weight / (height**2))
+        write(*,'(A, F10.2') 'Your bmi is ',  (weight / (height**2))
 end program bmi
 
