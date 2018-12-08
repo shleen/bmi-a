@@ -16,6 +16,7 @@ Feel free to make improvements & soup these bmi calculators up, though!
 - Kotlin - contributed by [Keith](https://github.com/Kaioru)
 - Gamemaker Minigame - contributed by [Zachary](https://github.com/zacharytay1994)
 - C - contributed by [Yadunand](https://github.com/yadunut)
+- Lisp - contributed by [Yadunand](https://github.com/yadunut)
 
 ## In Development
 - Java
